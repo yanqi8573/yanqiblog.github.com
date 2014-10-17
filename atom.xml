@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[yanqiBlog]]></title>
+  <link href="http://yanqi8573.github.io/atom.xml" rel="self"/>
+  <link href="http://yanqi8573.github.io/"/>
+  <updated>2014-10-17T15:47:51+08:00</updated>
+  <id>http://yanqi8573.github.io/</id>
+  <author>
+    <name><![CDATA[zhangjian]]></name>
+    <email><![CDATA[710982966@qq.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Fsdf]]></title>
+    <link href="http://yanqi8573.github.io/blog/2014/10/17/fsdf/"/>
+    <updated>2014-10-17T15:47:39+08:00</updated>
+    <id>http://yanqi8573.github.io/blog/2014/10/17/fsdf</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
